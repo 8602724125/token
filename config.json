@@ -1,0 +1,7 @@
+{
+    "secret" : "Mits_Gwalior",
+    "refreshTokenSecret" : "Madhav_Gwalior",
+    "port" : 3000,
+    "tokenLife" : "1m",
+    "refreshTokenLife" : "1h"
+}
